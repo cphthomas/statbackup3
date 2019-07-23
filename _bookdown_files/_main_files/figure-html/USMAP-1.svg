@@ -387,12 +387,12 @@
 <clipPath id="clip19">
   <path d="M 787.042969 195.632812 L 804.324219 195.632812 L 804.324219 282.03125 L 787.042969 282.03125 Z M 787.042969 195.632812 "/>
 </clipPath>
-<image id="image595" width="1" height="20" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAUCAIAAADDbMD2AAAABmJLR0QA/wD/AP+gvaeTAAAALElEQVQImWXFsQkAMAwDQaFKfoP3H9dNCIQUx0mSZsaAkziJq+oB3AF39/exWJQCX8hTXhIAAAAASUVORK5CYII="/>
+<image id="image1453" width="1" height="20" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAUCAIAAADDbMD2AAAABmJLR0QA/wD/AP+gvaeTAAAALElEQVQImWXFsQkAMAwDQaFKfoP3H9dNCIQUx0mSZsaAkziJq+oB3AF39/exWJQCX8hTXhIAAAAASUVORK5CYII="/>
 <pattern id="pattern0" patternUnits="userSpaceOnUse" width="1" height="20"  patternTransform="matrix(17.28,0,0,4.32,787.041096,195.631836)">
-  <use xlink:href="#image595"/>
+  <use xlink:href="#image1453"/>
 </pattern>
 </defs>
-<g id="surface591">
+<g id="surface1449">
 <rect x="0" y="0" width="842" height="468" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
 <rect x="0" y="0" width="842" height="468" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
 <path style="fill:none;stroke-width:1.066978;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0 468 L 842 468 L 842 0 L 0 0 Z M 0 468 "/>

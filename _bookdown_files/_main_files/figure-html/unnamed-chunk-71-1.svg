@@ -289,13 +289,13 @@
 </symbol>
 </g>
 <clipPath id="clip1">
-  <path d="M 59.039062 149 L 474.757812 149 L 474.757812 151 L 59.039062 151 Z M 59.039062 149 "/>
+  <path d="M 59.039062 149 L 473.757812 149 L 473.757812 151 L 59.039062 151 Z M 59.039062 149 "/>
 </clipPath>
 <clipPath id="clip2">
-  <path d="M 59.039062 135 L 474.757812 135 L 474.757812 137 L 59.039062 137 Z M 59.039062 135 "/>
+  <path d="M 59.039062 135 L 473.757812 135 L 473.757812 137 L 59.039062 137 Z M 59.039062 135 "/>
 </clipPath>
 </defs>
-<g id="surface868">
+<g id="surface2238">
 <rect x="0" y="0" width="504" height="360" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
 <g style="fill:rgb(0%,0%,0%);fill-opacity:1;">
   <use xlink:href="#glyph0-1" x="75.786133" y="198.933594"/>
